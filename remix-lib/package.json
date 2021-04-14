@@ -22,7 +22,8 @@
     "ethers": "^4.0.40",
     "events": "^3.0.0",
     "solc": "^0.8.3",
-    "web3": "^1.2.4"
+    "web3": "^1.2.4",
+    "snyk": "^1.541.0"
   },
   "devDependencies": {
     "@babel/core": "^7.4.5",
@@ -37,7 +38,9 @@
     "tape": "^4.6.0"
   },
   "scripts": {
-    "test": "standard && tape ./test/tests.js"
+    "test": "standard && tape ./test/tests.js",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "repository": {
     "type": "git",
@@ -88,5 +91,6 @@
         }
       ]
     ]
-  }
+  },
+  "snyk": true
 }
