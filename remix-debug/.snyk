@@ -20,3 +20,7 @@ patch:
         patched: '2021-06-12T13:08:40.491Z'
     - remix-lib > ethereumjs-vm > ethereumjs-blockchain > ethashjs > async > lodash:
         patched: '2021-06-12T13:08:40.491Z'
+    - snyk > snyk-nodejs-lockfile-parser > @yarnpkg/core > lodash:
+        patched: '2021-06-12T13:10:30.872Z'
+    - snyk > snyk-docker-plugin > snyk-nodejs-lockfile-parser > @yarnpkg/core > lodash:
+        patched: '2021-06-12T13:10:30.872Z'
