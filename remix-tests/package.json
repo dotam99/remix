@@ -39,7 +39,7 @@
   },
   "homepage": "https://github.com/ethereum/remix/tree/master/remix-tests#readme",
   "dependencies": {
-    "async": "^2.6.0",
+    "async": "^3.2.2",
     "change-case": "^3.0.1",
     "colors": "^1.1.2",
     "commander": "^2.13.0",
