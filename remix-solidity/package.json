@@ -17,7 +17,7 @@
   "dependencies": {
     "eslint-scope": "^5.0.0",
     "remix-lib": "0.4.30",
-    "solc": "^0.6.0",
+    "solc": "^0.8.12",
     "webworkify": "^1.2.1"
   },
   "devDependencies": {
