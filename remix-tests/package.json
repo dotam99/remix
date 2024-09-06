@@ -39,7 +39,7 @@
   },
   "homepage": "https://github.com/ethereum/remix/tree/master/remix-tests#readme",
   "dependencies": {
-    "async": "^2.6.0",
+    "async": "^3.0.0",
     "change-case": "^3.0.1",
     "colors": "^1.1.2",
     "commander": "^2.13.0",
@@ -47,8 +47,8 @@
     "remix-simulator": "0.1.9-beta.6",
     "remix-solidity": "0.3.31",
     "signale": "^1.4.0",
-    "web3": "^1.2.4",
-    "winston": "^3.0.0"
+    "web3": "^4.0.1",
+    "winston": "^3.3.4"
   },
   "peerDependencies": {
     "yo-yoify": "^4.3.0"
