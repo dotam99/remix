@@ -28,7 +28,7 @@
     "remix-lib": "0.4.30",
     "standard": "^10.0.3",
     "time-stamp": "^2.0.0",
-    "web3": "^1.2.4"
+    "web3": "^4.13.0"
   },
   "devDependencies": {
     "@babel/core": "^7.4.5",
